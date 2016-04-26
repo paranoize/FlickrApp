@@ -1,0 +1,42 @@
+﻿.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+.searchWrapper {
+    margin-left: 285px;
+}
+.pane {
+    width: 250px;
+    float: left;
+}
+.image {
+    border-radius: 16px;
+    background: url('../images/loading.gif') no-repeat center;
+    width: 240px;
+}
+.searchInput {
+    width: 250px;
+    font-size: 20px;
+}
+.searchButton {
+    font-size: 20px;
+}
+.hiddenImage {
+    display: none;
+}
+.descriptionSpan {
+    display: block;
+    margin-top: 5px;
+    word-wrap: break-word;
+}
+.tagsSpan {
+    display: block;
+    margin-top: 8px;
+    word-wrap: break-word;
+}
+.imageWrapper {
+    padding: 8px;
+}
+a {
+    word-wrap: break-word;
+}
